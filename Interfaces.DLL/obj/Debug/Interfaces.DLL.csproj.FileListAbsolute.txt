@@ -1,0 +1,5 @@
+E:\Rahman\Projects\DependencyResolverTemplate\Interfaces.DLL\bin\Debug\Interfaces.DLL.dll
+E:\Rahman\Projects\DependencyResolverTemplate\Interfaces.DLL\bin\Debug\Interfaces.DLL.pdb
+E:\Rahman\Projects\DependencyResolverTemplate\Interfaces.DLL\obj\Debug\Interfaces.DLL.csprojResolveAssemblyReference.cache
+E:\Rahman\Projects\DependencyResolverTemplate\Interfaces.DLL\obj\Debug\Interfaces.DLL.dll
+E:\Rahman\Projects\DependencyResolverTemplate\Interfaces.DLL\obj\Debug\Interfaces.DLL.pdb

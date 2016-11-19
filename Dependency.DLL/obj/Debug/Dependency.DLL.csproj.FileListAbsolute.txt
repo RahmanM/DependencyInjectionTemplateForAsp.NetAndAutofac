@@ -1,0 +1,7 @@
+E:\Rahman\Projects\DependencyResolverTemplate\Dependency.DLL\bin\Debug\Dependency.DLL.dll
+E:\Rahman\Projects\DependencyResolverTemplate\Dependency.DLL\bin\Debug\Dependency.DLL.pdb
+E:\Rahman\Projects\DependencyResolverTemplate\Dependency.DLL\bin\Debug\Interfaces.DLL.dll
+E:\Rahman\Projects\DependencyResolverTemplate\Dependency.DLL\bin\Debug\Interfaces.DLL.pdb
+E:\Rahman\Projects\DependencyResolverTemplate\Dependency.DLL\obj\Debug\Dependency.DLL.csprojResolveAssemblyReference.cache
+E:\Rahman\Projects\DependencyResolverTemplate\Dependency.DLL\obj\Debug\Dependency.DLL.dll
+E:\Rahman\Projects\DependencyResolverTemplate\Dependency.DLL\obj\Debug\Dependency.DLL.pdb
